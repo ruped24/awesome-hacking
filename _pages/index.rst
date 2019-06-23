@@ -1,6 +1,14 @@
 =================
- Awesome Hacking
+ Awesome Hacking   
 =================
+
+.. image:: http://hits.dwyl.io/ruped24/ruped24/awesome-hacking.svg?style=flat-square
+   :target: http://hits.dwyl.io/ruped24/ruped24/awesome-hacking
+   :alt: HitCount
+   
+.. image:: https://img.shields.io/github/stars/jekil/awesome-hacking.svg?style=social
+   :target: https://img.shields.io/github/stars/jekil/awesome-hacking.svg?style=social
+   :alt: GitHub stars
 
 Awesome hacking is a curated list of **hacking tools** for hackers, pentesters and security researchers.
 Its goal is to collect, classify and make awesome tools easy to find by humans, creating a **toolset** you can
