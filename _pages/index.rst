@@ -16,7 +16,7 @@ checkout and update with one command.
 
 You can checkout all the tools with the following command::
 
-    git clone --recursive https://github.com/jekil/awesome-hacking.git
+    git clone --recursive https://github.com/ruped24/awesome-hacking.git
 
 Every kind of **contribution** is really appreciated! Follow the :doc:`contribute`.
 
