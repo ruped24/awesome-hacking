@@ -725,7 +725,7 @@ Phishing
 Privacy
 -------
 
-- `GoSecure <https://iadgov.github.io/goSecure/>`_ - An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi.
+- `GoSecure <https://github.com/nsacyber/goSecure>`_ - An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi.
 - `I2P <https://geti2p.net>`_ - The Invisible Internet Project.
 - `Nipe <https://github.com/GouveaHeitor/nipe>`_ - A script to make Tor Network your default gateway.
 - `SecureDrop <https://freedom.press/securedrop>`_ - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
