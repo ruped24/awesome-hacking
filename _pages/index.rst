@@ -698,6 +698,7 @@ Wireless
 - `Wifijammer <https://github.com/DanMcInerney/wifijammer>`_ - Continuously jam all wifi clients/routers.
 - `Wifite <https://github.com/derv82/wifite>`_ - Automated wireless attack tool.
 - `Wifiphisher <https://github.com/wifiphisher/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
+- `Wifi_scripts <https://bitbucket.org/ruped24/wifi_scripts/src/master/>`_ - Automated wifi hacking scripts for Kali Linux 2.0.
 
 Security
 ========
