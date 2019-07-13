@@ -149,7 +149,7 @@ Incident Response
 Live Analysis
 -------------
 
-- `OS X Auditor <OS X Auditor is a free Mac OS X computer forensics tool>`_ - OS X Auditor is a free Mac OS X computer forensics tool.
+- `OS X Auditor <https://github.com/jipegit/OSXAuditor>`_ - OS X Auditor is a free Mac OS X computer forensics tool.
 - `Windows-event-forwarding <https://github.com/palantir/windows-event-forwarding>`_ - A repository for using windows event forwarding for incident detection and response.
 
 Memory Forensics
@@ -176,7 +176,7 @@ Misc
 
 - `Diffy <https://github.com/Netflix-Skunkworks/diffy>`_ - A digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT). Allows a forensic investigator to quickly scope a compromise across cloud instances during an incident, and triage those instances for followup actions.
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
-- `Libfvde <https://github.com/libyal/libfvde>` - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
+- `Libfvde <https://github.com/libyal/libfvde>`_ - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
 
 Hardware Hacking
 ================
