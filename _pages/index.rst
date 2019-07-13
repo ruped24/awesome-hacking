@@ -18,7 +18,7 @@ You can checkout all the tools with the following command::
 
     git clone --recursive https://github.com/ruped24/awesome-hacking.git
 
-Every kind of **contribution** is really appreciated! Follow the :doc:`contribute`.
+Any kind of **contribution** is really appreciated! Follow the :doc:`contribute`.
 
 *If you enjoy this work, please keep it alive contributing or just sharing it!* - `@jekil <https://twitter.com/jekil>`_
 
@@ -409,11 +409,13 @@ DoS
 
 - `DHCPig <https://github.com/kamorin/DHCPig>`_ - DHCP exhaustion script written in python using scapy network library.
 - `LOIC <https://github.com/NewEraCracker/LOIC/>`_ - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project.
+- `Memcrashed <https://github.com/649/Memcrashed-DDoS-Exploit>`_ - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API.
 - `Sockstress <https://github.com/defuse/sockstress>`_ - Sockstress (TCP DoS) implementation.
+- `Tor_ip_switcher <https://github.com/ruped24/tor_ip_switcher>`_ - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack.
 - `T50 <http://t50.sf.net/>`_ - The more fast network stress tool.
 - `Torshammer <https://github.com/dotfighter/torshammer>`_ - Tor's hammer. Slow post DDOS tool written in python.
 - `UFONet <http://ufonet.03c8.net>`_ - Abuses OSI Layer 7-HTTP to create/manage 'zombies' and to conduct different attacks using; GET/POST, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
-- `Memcrashed <https://github.com/649/Memcrashed-DDoS-Exploit>`_ - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API.
+- `Vegeta <https://github.com/tsenart/vegeta>`_ - HTTP load testing tool and library.
 
 Exploiting
 ----------
