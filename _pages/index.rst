@@ -473,6 +473,7 @@ Info Gathering
 
 - `Bundler-audit <https://github.com/rubysec/bundler-audit>`_ - Patch-level verification for Bundler.
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
+- `Discover <https://github.com/leebaird/discover>`_ - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. .
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
