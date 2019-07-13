@@ -111,10 +111,6 @@ Docker
 
     docker pull fmantuano/spamscope-elasticsearch
 
-- `Vulnerable WordPress Installation <https://hub.docker.com/r/wpscanteam/vulnerablewordpress/>`_ - Vulnerable WordPress Installation.
-
-    docker pull wpscanteam/vulnerablewordpress
-
 - `Vulnerability as a service: Heartbleed <https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/>`_ - Vulnerability as a Service: CVE 2014-0160.
 
     docker pull hmlio/vaas-cve-2014-0160
