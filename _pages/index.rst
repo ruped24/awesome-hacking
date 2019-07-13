@@ -641,6 +641,7 @@ Training
 Web
 ---
 
+- `Acstis <https://github.com/tijme/angularjs-csti-scanner>`_ - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass.
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `Astra <https://github.com/flipkart-incubator/Astra>`_ - Automated Security Testing For REST API's .
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
