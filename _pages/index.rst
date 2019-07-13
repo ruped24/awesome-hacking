@@ -647,6 +647,7 @@ Web
 - `Burp Suite <http://portswigger.net/burp/>`_ - An integrated platform for performing security testing of web applications.
 - `CloudScraper <https://github.com/jordanpotti/CloudScraper>`_ - Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
 - `Cms-explorer <https://code.google.com/archive/p/cms-explorer/>`_ - CMS Explorer is designed to reveal the the specific modules, plugins, components and themes that various CMS driven web sites are running.
+- `Dirsearch <https://github.com/maurosoria/dirsearch>`_ - Web path scanner.
 - `Dvcs-ripper <https://github.com/kost/dvcs-ripper>`_ - Rip web accessible (distributed) version control systems.
 - `Fimap <https://tha-imax.de/git/root/fimap>`_ - Find, prepare, audit, exploit and even google automatically for LFI/RFI bugs.
 - `Gobuster <https://github.com/OJ/gobuster>`_ - Directory/file & DNS busting tool written in Go.
