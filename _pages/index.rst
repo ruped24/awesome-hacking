@@ -640,7 +640,6 @@ Training
 Web
 ---
 
-
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `Astra <https://github.com/flipkart-incubator/Astra>`_ - Automated Security Testing For REST API's .
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
@@ -670,6 +669,7 @@ Web
 - `SQLNinja <http://sqlninja.sourceforge.net/>`_ - SQL Server injection & takeover tool.
 - `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
 - `Tracy <https://github.com/nccgroup/tracy>`_ - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
+- `Vega <https://subgraph.com/vega/>`_ - Vega helps you find and fix cross-site scripting (XSS), SQL injection, and more.
 - `Yasuo <https://github.com/0xsauby/yasuo>`_ - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network.
 - `W3af <http://w3af.org>`_ - Web application attack and audit framework.
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
