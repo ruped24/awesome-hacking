@@ -408,6 +408,7 @@ DoS
 ---
 
 - `DHCPig <https://github.com/kamorin/DHCPig>`_ - DHCP exhaustion script written in python using scapy network library.
+- `GoldenEye <https://github.com/jseidl/GoldenEye>`_ - GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool.
 - `LOIC <https://github.com/NewEraCracker/LOIC/>`_ - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project.
 - `Memcrashed <https://github.com/649/Memcrashed-DDoS-Exploit>`_ - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API.
 - `Sockstress <https://github.com/defuse/sockstress>`_ - Sockstress (TCP DoS) implementation.
