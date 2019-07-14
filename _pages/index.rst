@@ -413,7 +413,7 @@ DoS
 - `Memcrashed <https://github.com/649/Memcrashed-DDoS-Exploit>`_ - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API.
 - `Sockstress <https://github.com/defuse/sockstress>`_ - Sockstress (TCP DoS) implementation.
 - `Tor_ip_switcher <https://github.com/ruped24/tor_ip_switcher>`_ - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack.
-- `T50 <http://t50.sf.net/>`_ - The more fast network stress tool.
+- `T50 <http://t50.sf.net/>`_ - The fatest network packet injector.
 - `Torshammer <https://github.com/dotfighter/torshammer>`_ - Tor's hammer. Slow post DDOS tool written in python.
 - `UFONet <http://ufonet.03c8.net>`_ - Abuses OSI Layer 7-HTTP to create/manage 'zombies' and to conduct different attacks using; GET/POST, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
 - `Vegeta <https://github.com/tsenart/vegeta>`_ - HTTP load testing tool and library.
