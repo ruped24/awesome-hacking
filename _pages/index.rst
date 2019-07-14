@@ -417,6 +417,7 @@ DoS
 - `Torshammer <https://github.com/dotfighter/torshammer>`_ - Tor's hammer. Slow post DDOS tool written in python.
 - `UFONet <http://ufonet.03c8.net>`_ - Abuses OSI Layer 7-HTTP to create/manage 'zombies' and to conduct different attacks using; GET/POST, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
 - `Vegeta <https://github.com/tsenart/vegeta>`_ - HTTP load testing tool and library.
+- `Xerxes <https://github.com/isdrupter/xerxes>`_ - The best DOS Tool Out There!
 
 Exploiting
 ----------
