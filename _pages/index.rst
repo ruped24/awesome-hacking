@@ -422,20 +422,24 @@ DoS
 Exploiting
 ----------
 
+- `Adconnectdump <https://github.com/fox-it/adconnectdump>`_ - Dump Azure AD Connect credentials for Azure AD and Active Directory.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
+- `DeathStar <https://github.com/byt3bl33d3r/DeathStar>`_ - DeathStar is a Python script that uses Empire's RESTful API to automate gaining Domain Admin rights in Active Directory environments using a variety of techniques.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
 - `Drupwn <https://github.com/immunIT/drupwn>`_ - Drupal enumeration & exploitation tool.
 - `ExploitPack <http://exploitpack.com>`_ - Graphical tool for penetration testing with a bunch of exploits.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Gorsair <https://github.com/Ullaakut/Gorsair>`_ - Gorsair hacks its way into remote docker containers that expose their APIs.
+- `Inveigh <https://github.com/Kevin-Robertson/Inveigh>`_ - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool.
 - `killchain <https://github.com/ruped24/killchain>`_ - A unified console to perform the "kill chain" stages of attacks.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `Nessus <http://www.tenable.com/products/nessus-vulnerability-scanner>`_ - Vulnerability, configuration, and compliance assessment.
 - `Nexpose <https://www.rapid7.com/products/nexpose/>`_ - Vulnerability Management & Risk Management Software.
 - `OpenVAS <http://www.openvas.org>`_ - Open Source vulnerability scanner and manager.
+- `PowerPriv <https://github.com/G0ldenGunSec/PowerPriv>`_ - A Powershell implementation of PrivExchange designed to run under the current user's context. 
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
 - `PSKernel-Primitives <https://github.com/FuzzySecurity/PSKernel-Primitives>`_ - Exploit primitives for PowerShell.
 - `ROP Gadget <http://shell-storm.org/project/ROPgadget/>`_ - Framework for ROP exploitation.
@@ -481,9 +485,11 @@ Info Gathering
 - `IVRE <https://ivre.rocks>`_ - An open-source framework for network recon. It relies on open-source well-known tools to gather data (network intelligence), stores it in a database, and provides tools to analyze it.
 - `Operative-framework <https://github.com/graniet/operative-framework>`_ - This is a framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules (Viadeo search,Linkedin search, Reverse email whois, Reverse ip whois, SQL file forensics ...).
 - `Recon-ng <https://bitbucket.org/LaNMaSteR53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
+- `RedELK <https://github.com/outflanknl/RedELK>`_ - Red Team's SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability for the Red Team in long term operations.
+- `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
+- `Sn1per <https://github.com/1N3/Sn1per>`_ - Sn1per Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities.
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
 - `Sparty <https://github.com/0xdevalias/sparty>`_ - MS Sharepoint and Frontpage Auditing Tool.
-- `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
 - `SubFinder <https://github.com/subfinder/subfinder>`_ - A subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
