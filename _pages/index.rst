@@ -382,7 +382,7 @@ Packet Manipulation
 -------------------
 
 - `Pig <https://github.com/rafael-santiago/pig>`_ - A Linux packet crafting tool.
-- `Yersinia <http://www.yersinia.net>`_ - A network tool designed to take advantage of some weakeness in different network protocols. It pretends to be a solid framework for analyzing and testing the deployed networks and systems.
+- `Yersinia <https://github.com/tomac/yersinia>`_ - A network tool designed to take advantage of some weaknesses in different network protocols. It pretends to be a solid framework for analyzing and testing the deployed networks and systems.
 
 Sniffer
 -------
