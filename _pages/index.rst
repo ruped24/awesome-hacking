@@ -259,7 +259,7 @@ Dynamic Analysis
 - `Panda <https://github.com/panda-re/panda>`_ - Platform for Architecture-Neutral Dynamic Analysis.
 - `ProbeDroid <https://github.com/ZSShen/ProbeDroid>`_ - A dynamic binary instrumentation kit targeting on Android(Lollipop) 5.0 and above.
 - `PyEMU <https://code.google.com/archive/p/pyemu/>`_ - Fully scriptable IA-32 emulator, useful for malware analysis.
-- `Pyrebox <https://github.com/Cisco-Talos/pyrebox>` _ - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.
+- `Pyrebox <https://github.com/Cisco-Talos/pyrebox>`_ - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.
 - `Uitkyk <https://github.com/brompwnie/uitkyk>`_ - Runtime memory analysis framework to identify Android malware.
 - `WScript Emulator <https://github.com/mrpapercut/wscript/>`_ - Emulator/tracer of the Windows Script Host functionality.
 
