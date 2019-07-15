@@ -675,6 +675,7 @@ Web
 - `Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
 - `Scout2 <https://nccgroup.github.io/Scout2/>`_ - Security auditing tool for AWS environments.
 - `Skipfish <https://code.google.com/archive/p/skipfish/>`_ - An active web application security reconnaissance tool. It prepares an interactive sitemap for the targeted site by carrying out a recursive crawl and dictionary-based probes.
+- `SleuthQL <https://github.com/RhinoSecurityLabs/SleuthQL>`_ - Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
 - `SQLNinja <http://sqlninja.sourceforge.net/>`_ - SQL Server injection & takeover tool.
 - `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
