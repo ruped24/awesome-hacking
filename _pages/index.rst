@@ -2,6 +2,11 @@
  Awesome Hacking   
 =================
 
+
+.. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+   :target: https://github.com/sindresorhus/awesome
+   :alt: Awesome
+
 .. image:: http://hits.dwyl.io/ruped24/ruped24/awesome-hacking.svg?style=flat-square
    :target: http://hits.dwyl.io/ruped24/ruped24/awesome-hacking
    :alt: HitCount
