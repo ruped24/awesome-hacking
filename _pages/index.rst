@@ -698,7 +698,7 @@ Web
 - `WPSploit <https://github.com/espreto/wpsploit>`_ - Exploiting Wordpress With Metasploit.
 - `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
 - `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_- XSS Payload list.
-- `XSStrike <https://github.com/s0md3v/XSStrike>`_- Most advanced XSS scanner.
+- `XSStrike <https://github.com/s0md3v/XSStrike>`_ - Most advanced XSS scanner.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Wireless
