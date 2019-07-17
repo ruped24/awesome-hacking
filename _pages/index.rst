@@ -491,6 +491,7 @@ Info Gathering
 - `Operative-framework <https://github.com/graniet/operative-framework>`_ - This is a framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules (Viadeo search,Linkedin search, Reverse email whois, Reverse ip whois, SQL file forensics ...).
 - `Recon-ng <https://bitbucket.org/LaNMaSteR53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
 - `RedELK <https://github.com/outflanknl/RedELK>`_ - Red Team's SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability for the Red Team in long term operations.
+- `Securityheaders <https://github.com/koenbuyens/securityheaders>`_ - Check any website (or set of websites) for insecure security headers.
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `Sn1per <https://github.com/1N3/Sn1per>`_ - Sn1per Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities.
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
