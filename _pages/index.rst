@@ -43,6 +43,7 @@ Static Analysis
 Cryptography
 ============
 
+- `CyberChef <https://gchq.github.io/CyberChef/>`_ - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 - `FeatherDuster <https://github.com/nccgroup/featherduster>`_ - An automated, modular cryptanalysis tool.
 - `RSATool <https://github.com/ius/rsatool>`_ - Generate private key with knowledge of p and q.
 - `Xortool <https://github.com/hellman/xortool>`_ - A tool to analyze multi-byte xor cipher.
