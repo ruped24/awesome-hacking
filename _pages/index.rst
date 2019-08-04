@@ -481,6 +481,7 @@ Exploits
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
+- `Snyk Vulnerability DB <https://snyk.io/vuln>`_ - Detailed information and remediation guidance for known vulnerabilities.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
 - `XiphosResearch Exploits <https://github.com/XiphosResearch/exploits>`_ - Miscellaneous proof of concept exploit code written at Xiphos Research for testing purposes.
 
