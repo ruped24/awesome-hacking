@@ -2,6 +2,11 @@
  Awesome Hacking   
 =================
 
+.. image:: https://img.shields.io/badge/awesome-hacking-red.svg?style=flat-square
+   :alt: Awesome hacking
+   
+.. image:: https://img.shields.io/badge/awesome-community-green.svg?style=flat-square
+   :alt: Awesom community
 
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
    :target: https://github.com/sindresorhus/awesome
