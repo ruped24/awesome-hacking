@@ -79,7 +79,11 @@ Docker
 
 - `Kali Linux <https://hub.docker.com/r/kalilinux/kali-linux-docker/>`_ - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.
 
-    docker pull kalilinux/kali-linux-docker 
+    docker pull kalilinux/kali-linux-docker
+    
+- `Kube Bench Security <https://github.com/aquasecurity/kube-bench/>`_ - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.
+
+   docker pull aquasec/kube-bench
 
 - `Metasploit <https://hub.docker.com/r/remnux/metasploit/>`_ - Metasploit Framework penetration testing software (unofficial docker).
 
