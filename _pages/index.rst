@@ -501,6 +501,7 @@ Info Gathering
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
 - `IVRE <https://ivre.rocks>`_ - An open-source framework for network recon. It relies on open-source well-known tools to gather data (network intelligence), stores it in a database, and provides tools to analyze it.
 - `Operative-framework <https://github.com/graniet/operative-framework>`_ - This is a framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules (Viadeo search,Linkedin search, Reverse email whois, Reverse ip whois, SQL file forensics ...).
+- `Parth <https://github.com/s0md3v/Parth>`_ - A Heuristic Vulnerable Parameter Scanner.
 - `Recon-ng <https://bitbucket.org/LaNMaSteR53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
 - `RedELK <https://github.com/outflanknl/RedELK>`_ - Red Team's SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability for the Red Team in long term operations.
 - `Securityheaders <https://github.com/koenbuyens/securityheaders>`_ - Check any website (or set of websites) for insecure security headers.
