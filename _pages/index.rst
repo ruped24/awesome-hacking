@@ -759,6 +759,7 @@ Phishing
 --------
 
 - `StreamingPhish <https://github.com/wesleyraptor/streamingphish>`_ - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
+- `Zphisher <https://github.com/htr-tech/zphisher>`_ - Automated phishing tool.
 
 Privacy
 -------
