@@ -693,6 +693,7 @@ Web
 - `LinkFinder <https://github.com/GerbenJavado/LinkFinder>`_ - A python script that finds endpoints in JavaScript files.
 - `Netsparker <https://www.netsparker.com>`_ - Web Application Security Scanner.
 - `Nikto2 <https://cirt.net/nikto2>`_ - Web application vulnerability scanner.
+- `NoSQL Injector <https://github.com/Charlie-belmer/nosqli>`_ - NoSQL scanner and injector.
 - `NoSQLMap <http://www.nosqlmap.net>`_ - Automated Mongo database and NoSQL web application exploitation tool.
 - `OWASP Xenotix <https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework>`_ - XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
