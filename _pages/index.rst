@@ -497,6 +497,9 @@ Info Gathering
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
+
+- `FinalRecon <https://github.com/thewhiteh4t/FinalRecon>`_ - FinalRecon is an automatic web reconnaissance tool written in python.
+
 - `Go-dork <https://github.com/dwisiswant0/go-dork>`_ - The fastest dork scanner written in Go.
 - `Hsecscan <https://github.com/riramar/hsecscan>`_ - A security scanner for HTTP response headers.
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
