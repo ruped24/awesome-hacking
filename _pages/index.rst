@@ -718,6 +718,7 @@ Web
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
 - `WPSploit <https://github.com/espreto/wpsploit>`_ - Exploiting Wordpress With Metasploit.
 - `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
+- `Xpath <https://github.com/r0oth3x49/Xpath>`_ - A tool that automates the process of detecting and exploiting error-based injection security flaws.
 - `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_ - XSS Payload list.
 - `XSS Payload based on input <https://raw.githubusercontent.com/cyberspacekittens/XSS/master/XSS2.png>`_ - XSS Payload based on input.
 - `XSStrike <https://github.com/s0md3v/XSStrike>`_ - Most advanced XSS scanner.
