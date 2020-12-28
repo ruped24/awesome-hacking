@@ -712,6 +712,7 @@ Web
 - `W3af <http://w3af.org>`_ - Web application attack and audit framework.
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
 - `Wappalyzer <https://github.com/AliasIO/Wappalyzer>`_ - Cross-platform utility that uncovers the technologies used on websites.
+- `WebTech <https://github.com/ShielderSec/webtech>`_ - WebTech is a Python software that can identify web technologies.
 - `Weevely3 <https://github.com/epinna/weevely3>`_ - Weaponized web shell.
 - `Wfuzz <https://github.com/xmendez/wfuzz>`_ - Web application fuzzer.
 - `WhatWeb <https://www.morningstarsecurity.com/research/whatweb>`_ - Website Fingerprinter.
